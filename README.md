@@ -3,6 +3,8 @@ an app to manage your messy inventory at your local store or warehouse, this pro
 future aspirations for this project will be an entire system of inventory management, including mobile app, desktop app, server and iots. <br>
 features in dev now, item map for each item, a visual map to locate the item. <br>
 <br>
+# tech stack
+flutter and postgres
 # screenshots
 entry:<br>
 ![alt text](https://github.com/rayanlep/myapp_inventory/blob/main/images/entry_img.png)<br>
