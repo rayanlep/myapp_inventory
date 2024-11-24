@@ -1,6 +1,6 @@
 # myapp_inventory
 an app to manage your inventory at your local store or warehouse, this project is personal, and its still in progress. <br>
-future aspirations for this project will be an entire system of inventory management, including mobile app, desktop app, server and iots. <br>.
+future aspirations for this project will be an entire system of inventory management, including mobile app, desktop app, server and iots. <br>
 features in dev now, item map for each item, a visual map to locate the item. <br>
 <br>
 # screenshots
