@@ -1,26 +1,12 @@
 # myapp_inventory
 an app to manage your messy inventory at your local store or warehouse, this project is personal, and its still in progress. <br>
 future aspirations for this project will be an entire system of inventory management, including mobile app, desktop app, server and iots. <br>
-features in dev now, item map for each item, a visual map to locate the item. <br>
+
 <br>
 # tech stack
 flutter and postgres
-# screenshots
-entry:<br>
-![alt text](https://github.com/rayanlep/myapp_inventory/blob/main/images/entry_img.png)<br>
-<br>
 
-loading: <br>
-![alt text](https://github.com/rayanlep/myapp_inventory/blob/main/images/load2.png)<br>
-<br>
 
-list of items (menu will be introduced later): <br>
-![alt text](https://github.com/rayanlep/myapp_inventory/blob/main/images/list2.png)<br>
-<br>
-
-gesture detection and options for each entry: <br>
-![alt text](https://github.com/rayanlep/myapp_inventory/blob/main/images/gesture2.png)<br>
-<br>
-
-submitting new item: <br>
-![alt text](https://github.com/rayanlep/myapp_inventory/blob/main/images/submit_img.png)<br>
+![1737497713797-right](https://github.com/user-attachments/assets/97598ab9-7007-4add-96a9-d59879e748fd)
+![1737497713784-right](https://github.com/user-attachments/assets/edb02660-0530-4bbc-9b23-a3bdbbf72173)
+![1737497713780-right](https://github.com/user-attachments/assets/a3f9190f-244b-46bd-b2c7-f086ea22ad5b)
