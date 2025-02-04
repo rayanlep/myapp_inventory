@@ -1,6 +1,15 @@
 # myapp_inventory
-an app to manage your messy inventory at your local store or warehouse, this project is personal, and its still in progress. <br>
-future aspirations for this project will be an entire system of inventory management, including mobile app, desktop app, server and iots. <br>
+an app to manage your messy inventory at your local store or warehouse, in progress. <br>
+supports the following: <br>
+visual map view of the items <br>
+list view of the items <br>
+add, move, remove possible for each item <br>
+users through firebase auth <br>
+home page of the user will show message board where history of actions is posted to track actions <br>
+admins can post announcements on that board <br>
+can export to whatsapp items that are critical and needs reordering <br>
+
+
 
 <br>
 # tech stack
