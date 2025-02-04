@@ -8,6 +8,7 @@ users through firebase auth <br>
 home page of the user will show message board where history of actions is posted to track actions <br>
 admins can post announcements on that board <br>
 can export to whatsapp items that are critical and needs reordering <br>
+each item has status, "accurate or not" to initiate checking of that item physically if the information is accurate.
 
 
 
