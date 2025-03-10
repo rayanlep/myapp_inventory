@@ -18,7 +18,7 @@ a barcode reader is integrated using phone or using a real barcode reader device
 <br>
 
 ## important 
-# can demonstrate live on interviews, code is not available for reserving rights
+code is not available but can demonstrate live on interviews
 
 # tech stack
 flutter and postgres<br>
